@@ -2,6 +2,9 @@
 
 Hermes-Symbiosis is an operating system for humans and agents.
 
+▶ Demo: https://youtu.be/C1qffO8BVSQ  
+✦ Thread: https://x.com/VictorDeGenaro/status/2050717028479058213  
+
 Systems today are fragmented.
 Agents live in scripts, dashboards, and isolated runtimes.
 
