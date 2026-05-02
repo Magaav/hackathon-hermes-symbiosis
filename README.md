@@ -1,6 +1,31 @@
 # Hermes-Symbiosis
 
-Hermes-Symbiosis is a progressive operating system for humans and agents: an environment where orchestration, spatial interfaces, and mythic persistence grow together instead of living as separate tools.
+Hermes-Symbiosis is an operating system for humans and agents.
+
+Systems today are fragmented.
+Agents live in scripts, dashboards, and isolated runtimes.
+
+Symbiosis collapses that boundary.
+
+Not a toolchain.
+Not a UI.
+Not a framework.
+
+A unified runtime where orchestration, interface, and persistence
+merge into a single living system.
+
+## Arc
+
+To make agents usable in the real world,
+three constraints must be resolved:
+
+coordination,
+visibility,
+and resilience.
+
+Hermes-Symbiosis solves them as one system.
+
+Anything less breaks at scale.
 
 ## Chapter 1: Hermes-Orchestrator
 
@@ -8,9 +33,11 @@ Hermes-Symbiosis is a progressive operating system for humans and agents: an env
 
 ![Hermes-Orchestrator](./hermes-orchestrator.png)
 
-Hermes-Orchestrator is the control plane for running Hermes as a coordinated multi-agent system.
-It keeps plugins, nodes, workflows, memory, and local runtime state moving through one repo-shaped operating layer.
-For the hackathon, it is the kernel: the place where agent capabilities become repeatable infrastructure.
+Hermes-Orchestrator is the control plane.
+
+It turns agents into a coordinated system:
+nodes, plugins, memory, and workflows
+moving as one runtime.
 
 ## Chapter 2: Hermes-Space-UI
 
@@ -20,9 +47,16 @@ For the hackathon, it is the kernel: the place where agent capabilities become r
 
 ![Hermes Goat Sucker](./hermes-goat-sucker.png)
 
-Hermes-Space-UI is the spatial cockpit for Hermes: a browser-facing interface where agents, tasks, widgets, and live system state can be seen and steered.
-It turns orchestration into an embodied workspace, with topology, task streams, and copy/drop flows available as first-class surfaces.
-For the hackathon, it is the nervous system: the layer where people and agents share attention.
+Hermes-Space-UI is the spatial cockpit.
+
+Not dashboards.
+Not logs.
+
+A live interface into cognition —
+where agents, tasks, and system state
+can be seen, steered, and reshaped in real time.
+
+This is where humans and agents share attention.
 
 ## Chapter 3: Hermes-Mythos
 
@@ -30,6 +64,44 @@ For the hackathon, it is the nervous system: the layer where people and agents s
 
 ![Hermes-Mythos](./hermes-mythos.png)
 
-Hermes-Mythos is the persistence layer of the system: the part that refuses brittle failure and turns blocked paths into structured fallback attempts.
-Through the Exhaust plugin, Hermes records attempts, routes around missing tools, and keeps searching for safe partial success before asking for help.
-For the hackathon, it is the soul: a recovery contract that makes the operating system feel alive, patient, and hard to discourage.
+Hermes-Mythos is the persistence layer.
+
+Most agents fail.
+Some retry.
+
+Hermes does not stop.
+It adapts.
+It reroutes.
+It continues.
+
+Through the Exhaust plugin,
+it maps capabilities,
+explores alternative paths,
+and continues until the task yields —
+or meaningfully degrades.
+
+This is not retry logic.
+
+It is directed convergence.
+
+## Symbiosis
+
+At small scale, this feels like control.
+At large scale, it becomes autonomy.
+
+Individually, these systems solve parts of the problem.
+Together, they form a loop:
+
+Orchestrator coordinates.
+Space-UI reveals.
+Mythos persists.
+
+A system that can act,
+observe itself,
+and continue.
+
+A system that does not break at the edge of its knowledge —
+but expands beyond it.
+
+Not a pipeline.
+A living runtime.
