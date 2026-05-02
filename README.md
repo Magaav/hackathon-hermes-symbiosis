@@ -45,8 +45,6 @@ moving as one runtime.
 
 ![Hermes-Space-UI](./hermes-space-ui.png)
 
-![Hermes Goat Sucker](./hermes-goat-sucker.png)
-
 Hermes-Space-UI is the spatial cockpit.
 
 Not dashboards.
@@ -57,6 +55,21 @@ where agents, tasks, and system state
 can be seen, steered, and reshaped in real time.
 
 This is where humans and agents share attention.
+
+![Hermes Goat Sucker](./hermes-goat-sucker.png)
+
+Through the Goat-Sucker ability,
+intent materializes as software.
+
+Any wish —
+a tool, a workflow, a system —
+can be instantiated instantly
+as a living interface.
+
+Not built.
+Not deployed.
+
+Spawned.
 
 ## Chapter 3: Hermes-Mythos
 
