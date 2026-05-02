@@ -58,7 +58,7 @@ This is where humans and agents share attention.
 
 ![Hermes Goat Sucker](./hermes-goat-sucker.png)
 
-Through the Goat-Sucker ability,
+Through the Goat-Sucker app,
 intent materializes as software.
 
 Any wish —
