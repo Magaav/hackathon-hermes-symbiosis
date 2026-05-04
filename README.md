@@ -121,3 +121,20 @@ but expands beyond it.
 
 Not a pipeline.
 A living runtime.
+
+---
+
+## Where this is going
+
+This system does not stop at running agents.
+
+It is being designed to evolve itself.
+
+The repository becomes executable:
+roadmaps become resumable,
+documentation becomes memory,
+and agents extend the system that runs them.
+
+Not users.
+
+Co-authors of a living system.
